@@ -1,2 +1,2 @@
 # IntroToCS
-#Intro to assignment code
+Intro to CS assignment code
